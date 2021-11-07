@@ -8,7 +8,6 @@ My name is George Koffas, and I'm a 23-year old student at the University of The
 <a href="https://github.com/GGkas/GGkas">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=GGkas&show_icons=true&hide_border=true&theme=synthwave&line_height=27" />
 </a>
-
 <a href="https://github.com/GGkas/GGkas">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGkas&theme=synthwave&langs_count=5&layout=default" />
 </a>
