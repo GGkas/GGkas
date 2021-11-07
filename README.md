@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is George Koffas, and I'm a 23-year old student at the University of Thessaly, Greece. I'm currently working on my diploma thesis, which involves Deep Learning and its appliactions on music generation. I'm currently interested in, and actively learning:
+My name is George Koffas, and I'm a 23-year old student at the University of Thessaly, Greece. I'm currently working on my diploma thesis, which involves Deep Learning and its applications on music generation. I'm currently interested in, and actively learning:
 * Game Development in C# and Unity
 * Full-Stack Web Development
 * The Lua scripting language
